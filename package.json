@@ -1,0 +1,25 @@
+{
+  "name": "namasthe_react",
+  "version": "1.0.0",
+  "description": "this is a the first react pakage",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musthafakareechiyil/react-start.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "musthafa kareechiyil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musthafakareechiyil/react-start/issues"
+  },
+  "homepage": "https://github.com/musthafakareechiyil/react-start#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
